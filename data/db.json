@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "new post data",
+      "details": "hello this is a  new data",
+      "id": 1
+    }
+  ]
+}
